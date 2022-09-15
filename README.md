@@ -34,7 +34,7 @@ Confirm that your git-config file must be pointing to the remote-url.
 
 On the terminal, type `vi ./git/config`
 
-This is a hidden file so if you type `ls -a`, it will show you the hidden files in git.
+The config file is a hidden file. So, if you type `ls -a`, it will show you the hidden files in git.
 
 Confirm that the remote-url is the same as the above.
 
